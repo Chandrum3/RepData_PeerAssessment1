@@ -1,6 +1,7 @@
----
-output: word_document
----
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set( fig.path='Figures/')
+```
+
 # Analysis of personal activity monitoring device data
 
 ## Introduction
